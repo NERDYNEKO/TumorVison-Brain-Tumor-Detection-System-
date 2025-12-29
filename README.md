@@ -16,3 +16,9 @@ A tumor that forms on the membranes that cover the brain.
 Tumors that grow in the pituitary gland.
 ## No Tumor:
 Healthy brain scans.
+## Accuracy and loss 
+![Accuracy-loss](Screenshot_30-12-2025_13114_localhost.jpeg)
+
+## **Frameworks:** TensorFlow, Keras, Streamlit
+## 🖥️ Application Demo
+![App Interface]
